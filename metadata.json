@@ -1,7 +1,7 @@
 {
     "name":"DWA Invitation",
     "symbol" : "DWAI",
-    "external_url": "https://duckzwitattitudes.com/",
+    "external_url": "https://twitter.com/DWAnfts",
     "description" : "Minting Live - Duckz Wit Attitudes - Mint Price : 0.69 SOL or 0.45 SOL with DuckSkull. - Join Discord to get free DuckSkull (WL token). This token is just an invitation. You can burn at any time. ",
     "image" : "https://raw.githubusercontent.com/WildyPixel/DWAinv/main/logo.png",
     "collection" : {"name": "DWA Invitation", "family": "DWAI"}
