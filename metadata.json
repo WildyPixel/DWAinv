@@ -2,7 +2,7 @@
   "name":"DWA Invitation",
   "symbol" : "DWAI",
   "external_url": "https://mint.duckzwitattitudes.com/",
-  "description" : "Duckz Wit Attitudes - 0.69 SOL or 0.45 SOL with DuckSkull. This token is just an invitation card to introduce the project. Exchangeable for DuckSkull tokens on our Discord. Please check through the official link. You can burn this at any time if you're not interested.",
+  "description" : "Duckz Wit Attitudes - Mint Price : 0.69 SOL or 0.45 SOL with DuckSkull. This token is just an invitation card to introduce the project. Exchangeable for DuckSkull tokens on our Discord. Please check through the official link. You can burn this at any time if you're not interested.",
   "image" : "https://raw.githubusercontent.com/WildyPixel/DWAinv/main/logo.png",
   "collection" : {"name": "DWA Invitation", "family": "DWAI"}
 }
